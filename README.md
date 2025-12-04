@@ -1,16 +1,15 @@
-## Hi there 👋
+# Кирилл | Начинающий Frontend developer
 
-<!--
-**Pumalk/Pumalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет, меня зовут Кирилл и я начинающий Frontend developer из Бурятии.
+Уже создал несколько пет-проектов для курсовых работ и для одной организации.
+Пытаюсь начать продавать свои услуги у себя в городе.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, my name is Kirill and I am a novice Frontend developer from Buryatia.
+I have already created several pet projects for coursework and for one organization.
+I'm trying to start selling my services in my city.
+
+---
+* Telegram: @pumalk
+* INST: @pumalk_
